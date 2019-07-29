@@ -1,0 +1,136 @@
+.booking-step-title{
+
+}
+.booking-step{
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  color: #102746;
+  padding-top: 16px;
+}
+.booking-step-subtitle{
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  color: #102746;
+}
+.bookin-date{
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #102746;
+  margin: 0px 0px 8px 5px;
+}
+.select-date{
+  width: 100%;
+  height: 40px;
+  border-radius: 2px;
+  border: solid 1px #cccccc;
+  background-color: #ffffff;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  color: #444444;
+}
+.booking-total-price{
+  width: 100%;
+ height: 241px;
+ background-color: rgba(250, 250, 250, 0.9);
+}
+.m-t-16{
+  margin-top: 16px;
+}
+.user-date{
+    display: inline-block;
+    border: 1px solid #cccccc;
+    padding: 7px 10px;
+    width: 56%;
+}
+.number-show{
+  width: 15%;
+  text-align: center;
+  border: 1px solid #cccccc;
+  padding: 7px 0px;
+}
+.adult-year-section button {
+  border: none;
+  padding: 8px 12px;
+}
+.check-ok{
+margin-top: 16px;
+}
+.check-ok label{
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  color: #444444;
+  padding-left: 10px;
+  margin-top: -3px;
+}
+.check-ok input {
+  border: solid 1px #cccccc;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+.booking-total-price{
+  margin: 0 auto;
+  width: 100%;
+
+}
+.booking-total-price p{
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  text-align: center;
+  color: #102746;
+  padding-top: 57px;
+  margin-bottom: 5px;
+}
+.booking-total-price h2{
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.05;
+  letter-spacing: normal;
+  text-align: center;
+  color: #102746;
+}
+.booking-total-price span{
+  display: block;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.54;
+  letter-spacing: normal;
+  text-align: center;
+  color: #102746;
+  width: 72%;
+  margin: 0 auto;
+}

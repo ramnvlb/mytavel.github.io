@@ -1,0 +1,129 @@
+.main-breweries-section{
+  max-width: 89% !important;
+}
+
+.breweries-title{
+  font-family: Lato;
+ font-size: 48px;
+ font-weight: 300;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: 0.88;
+ letter-spacing: normal;
+ color: #102746;
+ padding-top: 30px;
+ padding-bottom: 30px;
+}
+.breweries-subtitle{
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  color: #102746;
+  text-transform: uppercase;
+}
+.hr-divider-bootom{
+ border: solid 4px #dddddd;
+}
+.breweries-time-section{
+  margin-top: 20px;
+}
+.breweries-time-section::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+.time-schedule{
+ width: 25%;
+ float: left;
+}
+.time-schedule p{
+  font-family: Lato;
+  font-size: 12px;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #102746;
+  margin-bottom: 10px !important;
+}
+.time-schedule input{
+  width: 91%;
+  height: 40px;
+  border-radius: 2px;
+  border: solid 1px #cccccc;
+  background-color: #ffffff;
+  font-family: Lato;
+  font-size: 14px;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  color: #444444;
+}
+.time-schedule button{
+  width: 39.5px;
+  height: 41.3px;
+  border: solid 1px #cccccc;;
+  background-color: #cccccc;;
+  float: left;
+
+}
+.time-schedule .year-section{
+  display: inline-block;
+  border: 1px solid #cccccc;;
+  width: 50%;
+  height: 41.3px;
+  float: left;
+  padding-top: 8px;
+  padding-left: 10px;
+}
+.number-of-adult{
+  display: inline-block;
+  border: 1px solid #cccccc;;
+  width: 15%;
+  text-align: center;
+  height: 41.3px;
+  float: left;
+  padding-top: 8px;
+}
+.search-btn-again{
+  height: 40px;
+  width: 201px;
+  text-align: center;
+}
+.search-btn-again button{
+  height: 40px;
+  width: 201px;
+  color: #64a86b;
+  border: solid 1px #64a86b;
+  text-transform: uppercase;
+  background-color: #ffffff;
+}
+.search-btn-again button:hover{
+    background-color: #64a86b;
+    color: #ffff;
+}
+.margin-brewery{
+  margin-top: 20px;
+}
+.more-result{
+  width: 100%;
+  text-align: center;
+  height: 200px;
+}
+.more-result a{
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  text-align: center;
+  color: #102746 !important;
+  background-color: none !important;
+  text-transform: uppercase;
+}
+.more-result a:hover{
+  text-decoration: underline;
+}

@@ -1,0 +1,70 @@
+.status-input{
+  background-color: rgba(250, 250, 250, 0.9);
+  padding: 30px;
+}
+.current-status{
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.05;
+  letter-spacing: normal;
+  color: #102746;
+}
+.reference{
+  width: 274.5px;
+  height: 40px;
+  border-radius: 2px;
+  border: solid 1px #cccccc;
+  background-color: #ffffff;
+  padding-left: 15px;
+}
+.save-status{
+  width: 194px !important;
+  height: 46px !important;
+  background-color: #102746 !important;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff !important;
+  display: inline-block;
+  text-transform: uppercase;
+  border:none;
+  margin-left: 40px;
+  border:1px solid #102746;
+}
+.save-status:hover{
+  background-color: #ffffff !important;;
+  color: #102746 !important;
+}
+.status-subtitle{
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.54;
+  letter-spacing: normal;
+  color: #102746;
+}
+.select-region{
+  width: 274.5px;
+ height: 40px;
+ border-radius: 2px;
+ border: solid 1px #cccccc;
+ background-color: #ffffff;
+ font-family: Lato;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  color: #444444;
+}

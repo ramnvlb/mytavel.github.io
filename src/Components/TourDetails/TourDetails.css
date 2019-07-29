@@ -1,0 +1,77 @@
+.book-now{
+  position: relative;
+  height: 439px;
+}
+.pos-bootom{
+  position: absolute;
+  bottom: 0%;
+}
+.tourHighLight_container{
+  max-width: 95% !important;
+}
+
+.tour_info_container{
+  max-width: 91% !important;
+}
+.tour_info{
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #102746;
+  margin-top: 123px;
+}
+.border_section{
+   max-width: 91% !important;
+}
+.tour_border_section{
+  width: 95% !important;
+  height: 2px;
+  border: solid 1px #d9d9d9;
+  margin-top: 30px;
+}
+.map_info{
+  margin-top: 123px;
+}
+.tour_request_container{
+ max-width: 91% !important;
+}
+.tour_request{
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #102746;
+  margin-top: 30px;
+}
+.tour_request_email{
+  margin-top: 30px;
+}
+.things_container{
+max-width: 91% !important;
+}
+.things_main_title{
+  font-family: Lato;
+  font-size: 35px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #102746;
+}
+.m-t-113{
+  margin-top: 113px;
+}
+.m-b-36{
+  margin-bottom: 36px;
+}
+.m-t-97{
+  margin-top: 197px !important;
+}

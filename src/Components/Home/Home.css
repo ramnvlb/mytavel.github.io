@@ -1,0 +1,288 @@
+body, html{
+  padding: 0px !important;
+  margin:0px !important;
+}
+@font-face {
+  font-family: 'Avenir';
+  src: url('../../customeFont/font/Avenir-Book.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Avenir-Heavy';
+  src: url('../../customeFont/font/Avenir-Heavy.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Avenir-Medium';
+  src: url('../../customeFont/font/Avenir-Medium.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Avenir-Roman';
+  src:  url('../../customeFont/font/Avenir-Roman.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PingFangSC';
+  src: url('../../customeFont/font/PingFang-SC-Thin.ttf') format('truetype');
+
+  font-weight: 400;
+  font-style: normal;
+}
+.w-100-home{
+  width: 100% !important;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.header-top{
+  max-width: 98% !important;
+  margin: 0 auto !important;
+  padding-top: 25px !important;
+}
+.leftSection{
+  margin-top: 225px;
+  margin-left: 7px;
+  padding-left: 20px
+}
+.titleBar{
+  font-family: Lato;
+  font-size: 54px;
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+.text-style-1{
+  font-family: PingFangSC;
+    font-size: 54px;
+    font-weight: 600;
+    padding-left: 15px;
+}
+.support{
+  font-family: Lato;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #ffffff;
+    width: 70%;
+}
+.select-tour{
+  max-width: 93%;
+  margin: 0 auto;
+}
+.border-select-option{
+  border-bottom: solid 2px #bfc0c5;
+  padding-bottom: 2px;
+  width:97%;
+
+}
+.selectOption{
+  width: 100%;
+  background-color: unset !important;
+  color:#fff;
+  border: none;
+  outline: none;
+  font-family: Lato;
+  font-size: 18px;
+  /* font-weight: 500; */
+  line-height: 1.33;
+  color: #ffffff;
+  margin-top: 22px !important;
+}
+.find-tour-btn{
+  width: 249px;
+ height: 58px;
+ border-radius: 2px;
+ background-color: #64a86b;
+ text-align: center;
+}
+.find-tour-btn:hover{
+  background-color: #ffffff;
+  color: #64a86b;
+}
+.btn-tour{
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #64a86b !important;
+  border:none;
+  outline: none;
+  text-transform: uppercase;
+  padding: 10px 49px;;
+}
+.btn-tour:hover{
+  color: #64a86b;
+  background-color: #ffffff !important;
+}
+.custome-width{
+  width: 27% !important;
+  float: left;
+  padding-left: 10px;
+}
+.selectOption option {
+  color: black !important;
+  color:#fff;
+
+  font-size: 18px;
+
+  line-height: 1.33;
+  color: #ffffff;
+  font-family: serif;
+}
+
+.p-tb{
+  width: 265px;
+  border-bottom: solid 2px #bfc0c5;
+  padding-bottom: 15px;
+}
+.m-t-144{
+  margin-top: 144px;
+}
+.main-title{
+  font-family: Lato;
+  font-size: 48px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.88;
+  letter-spacing: normal;
+  text-align: center;
+  color: #102746;
+}
+.subtitle{
+  margin-top: 16px;
+  font-family: Lato;
+ font-size: 18px;
+ font-weight: normal;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: 1.67;
+ letter-spacing: normal;
+ color: #102746;
+}
+.breweries-section{
+  max-width: 90% !important;
+}
+.titles{
+  font-family: Lato;
+ font-size: 30px;
+ font-weight: normal;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: 1.33;
+ letter-spacing: normal;
+ color: #102746;
+}
+.title-support{
+  font-family: Lato;
+ font-size: 16px;
+ font-weight: normal;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: 1.5;
+ letter-spacing: normal;
+ color: #102746;
+}
+.m-t-2{
+  margin-top: 2px;
+}
+.m-l-80{
+  margin-left: 80px;
+}
+.m-t-43{
+  margin-top: 43px;
+}
+.seetoursArrow{
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-transform: uppercase;
+  color: #ff7100;
+}
+.seetoursArrow:hover{
+  color: #102746;
+}
+.m-t-77{
+  margin-top: 77px;
+}
+.w-80px{
+  width: 80%;
+}
+.m-t-0{
+  margin-top: 0px;
+  }
+.m-l-25{
+    margin-left: 25px;
+}
+.m-t-46{
+  margin-top: 46px;
+}
+.m-t-70{
+  margin-top: 70px;
+}
+.m-l-26{
+  margin-left: 26px;
+}
+.p-l-25{
+  padding-left: 25px;
+}
+.m-l-64{
+  margin-left: 64px;
+}
+.m-t-110{
+  margin-top: 110px;
+}
+.map-container{
+   height: 700px;
+   opacity: 0.81
+}
+.m-t-40{
+  margin-top: 40px !important;
+}
+.m-b-40{
+  margin-bottom: 40px;
+}
+.slider-title{
+  font-family: Lato;
+ font-size: 35px;
+ font-weight: normal;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: normal;
+ letter-spacing: normal;
+ color: #102746
+}
+.divider{
+  width: 253px;
+  height: 3px;
+  border: solid 2px #ff7100;
+}
+.padding-bottom{
+  padding-bottom: 0px !important;
+  background-color: black !important;
+}
+.sliderSection {
+    max-width: 93% !important;
+}
+.m-t-59{
+  margin-top: 59px;
+}
+.m-t-189{
+  margin-top: 189px;
+}
+.m-l-50{
+  margin-left: 50px;
+}
+.home-video video{
+  width: 100%;
+}

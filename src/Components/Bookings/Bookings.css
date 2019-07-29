@@ -1,0 +1,22 @@
+.bg-color-user-booking{
+  background-color: #0e1d28;
+}
+.loginHeader{
+background-color: #0e1d28 !important;
+max-width: 100% !important; 
+}
+.user-bookin-main-page{
+}
+.user-booking-title{
+  font-family: Lato;
+  font-size: 48px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.88;
+  letter-spacing: normal;
+  color: #102746;
+}
+.userBooking-item{
+  max-width: 96%;
+}

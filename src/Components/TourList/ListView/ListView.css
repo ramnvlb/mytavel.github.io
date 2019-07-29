@@ -1,0 +1,94 @@
+.list-view-like{
+ width: 100%;
+}
+.like-title{
+  float: left;
+  width: 60%;
+}
+.like-Numbers{
+  float: left;
+  width: 31%;
+  text-align: right;
+}
+.list-view-main-slide{
+  position: relative;
+  margin-top: 40px;
+  width: 100%;
+}
+.list-view-like{
+  position: absolute;
+  top: 252px;
+  left: 19px;
+}
+.like-name{
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+.like-Numbers a{
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+.list-heart{
+  margin-left: 20px;
+}
+.heart-icons{
+  margin-left: 4px
+}
+.star-icons{
+  margin-left:4px
+}
+
+
+@media(max-width:1100px){
+  .list-view-like{
+    left: 26px;
+  }
+  .list-view-like {
+    width: 88%;
+ }
+ .like-title {
+    width: 49%;
+}
+.like-Numbers {
+    float: left;
+    width: 51%;
+}
+
+}
+@media(max-width:1023px){
+  .list-view-like {
+    width: 100%;
+  }
+  .like-name{
+    font-size: 12px;
+  }
+  .list-view-like {
+    left: 10px;
+ }
+ .like-title {
+    width: 40%;
+}
+.like-Numbers a {
+    font-size: 11px;
+ }
+ .like-name {
+    font-size: 12px;
+    margin-bottom: 0px !important;
+    margin-top: 6px;
+}
+}
+@media(max-width:767px){
+}

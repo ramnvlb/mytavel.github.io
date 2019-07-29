@@ -1,0 +1,98 @@
+
+.breweries-list-item{
+max-width: 100% !important;
+padding: 0px;
+}
+.brewery-btn button{
+  width: 220px;
+  height: 40px;
+  border: solid 1px #64a86b;
+  text-transform: uppercase;
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.52;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  background-color:#64a86b;
+  margin-right: 40px;
+}
+.brewery-btn button:hover{
+  color: #64a86b;
+  background-color:#ffffff;
+}
+.img-brewry{
+  width: 100%;
+}
+.hr-divider{
+
+}
+.brewery-label{
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  color: #a9a9a9;
+  text-transform: uppercase;
+
+}
+.brewery-title{
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #102746;
+}
+.brewery-desc{
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #102746;
+}
+.remove-icon{
+
+}
+.remove-btn{
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.28;
+  letter-spacing: normal;
+  text-align: center;
+  color: #102746;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 109px;
+  text-align: left;
+  margin-left: 20px;
+}
+.edit-btn{
+  width: 118px;
+  height: 40px;
+  border: solid 1px #64a86b !important;
+  margin-left: 20px;
+  text-transform: uppercase;
+  background-color: #ffffff;
+  color: #64a86b !important;
+  margin-left: 20px;
+  display: inline-block;
+}
+.edit-btn:hover{
+  background-color: #64a86b;
+  color: #ffffff !important;
+}

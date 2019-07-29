@@ -1,0 +1,109 @@
+.step-two-subtitle{
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  color: #444444;
+}
+.booking-step2 label{
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #102746;
+}
+.booking-step2 input {
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  color: #444444;
+}
+.checkbox label span{
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  color: #444444;
+  margin-top: -6px;
+}
+
+.checkbox input[type="checkbox"] {
+    width: auto;
+    opacity: 0.00000001;
+    position: absolute;
+    left: 0;
+    margin-left: -20px;
+    background: red;
+}
+.checkbox label {
+    position: relative;
+}
+.checkbox label:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 4px 4px 4px 0px;
+    width: 17.2px;
+    height: 16.2px;
+    transition: transform 0.28s ease;
+    border-radius: 3px;
+  	border: 1.57px solid #CCCCCC;
+}
+.checkbox label:after {
+  content: '';
+  display: block;
+  width: 8px;
+  height: 4px;
+  border-bottom: 2px solid #00C464;
+  border-left: 2px solid #00C464;
+  transform: rotate(-45deg) scale(0);
+  position: absolute;
+  top: 9px;
+  left: 5px
+
+}
+.checkbox input[type="checkbox"]:checked ~ label::before {
+    color: #00C464;
+    border:1.57px solid #00C464;
+}
+
+
+.checkbox input[type="checkbox"]:checked ~ label::after {
+    -webkit-transform: rotate(-45deg) scale(1);
+    -moz-transform: rotate(-45deg) scale(1);
+    -ms-transform: rotate(-45deg) scale(1);
+    transform: rotate(-45deg) scale(1);
+}
+
+.checkbox label {
+    min-height: 34px;
+    display: block;
+    padding-left: 22px;
+    margin-bottom: 0;
+    font-weight: normal;
+    cursor: pointer;
+    vertical-align: sub;
+}
+.checkbox label span {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.checkbox input[type="checkbox"]:focus + label::before {
+    outline: 0;
+}

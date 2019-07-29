@@ -1,0 +1,124 @@
+{
+	"header": {
+		"aboutUs": "About us",
+		"tours": "Tours",
+		"gallery": "Gallery",
+		"contact": "Contact",
+		"placeHolder": "Type your search…",
+		"search": "SEARCH",
+		"login": "LOGIN"
+	},
+	"login": {
+		"userName": "Username",
+		"placeHolder": "Username",
+		"password": "Password",
+		"loginBtn": "LOGIN",
+		"forgot": "Forgot password?"
+	},
+	"bannerTitile": {
+		"title": "(Kanpai! (乾杯!)",
+		"subtitle": "Discover Japan’s national drink, the sake,with a tour of its famous breweries.",
+		"SelectPrefecture": "Select prefecture",
+		"SelectBrewery": "Select brewery",
+		"findAtour": "FIND A TOUR "
+	},
+	"authenticJapaneseSakeTour": {
+		"title": "Authentic Japanese Sake Tour",
+		"subtitleOne": "Japanese sake.  Let's go on an adventure across Japan to learn about the country's official drink. Dassai only makes Junmai Daiginjo sake, the highest quality, and if you want to understand sake, start with the best",
+		"subtitleTwo": "The company's story is significant. In the 1980's sake (nihonshu) consumption was going down because of competition from more beer, wine, and shochu"
+
+	},
+	"focusonPrefecturesHyogoBreweries": {
+		"title": "Focus on Prefectures: Hyogo’s Breweries",
+		"subtile": "Jump off balcony, onto stranger's head. Chase ball of string hide when guests come over. Being gorgeous with belly side up i could pee on this if i had the energy but under the bed, for attack the child, open the door",
+		"seeTourBtn": "SEE ALL TOURS"
+	},
+	"featuredTourDessaibrewery": {
+		"title": "Featured Tour: Dessai brewery",
+		"subtile": "The company's story is significant. In the 1980's sake (nihonshu) consumption was going down because of competition from more beer, wine, and shochu. John Daub got a chance to tour Dassai Brewery with the company's CEO, the world's hottest sake brand to get those answers.",
+		"readMore": "READ MORE"
+	},
+	"FindyourTour": {
+		"title": "Find your Tour"
+	},
+	"ExperiencetheultimateSakeTour": {
+		"title": "Experience the ultimate Sake Tour",
+		"subtitle": "Jump off balcony, onto stranger's head. Chase ball of string hide when guests come over. Being gorgeous with belly side up i could pee on this.",
+		"seeMoreBtn": "SEE MORE"
+	},
+	"footer": {
+		"company": "COMPANY",
+		"aboutUs": "About us ",
+		"team": "Team",
+		"testimonials": "Testimonials",
+		"privacyPolicy": "Privacy Policy",
+		"topDestinations": "top destinations",
+		"kyoto": "Kyoto",
+		"nagoya": "Nagoya",
+		"sapporo": "Sapporo",
+		"fukuoka": "Fukuoka",
+		"contact": "Contact",
+		"sakeWiz": "SakeWiz",
+		"parkLane": "Park Lane 289,",
+		"toronto": "10300 Toronto"
+	},
+	"dassaiSakeBreweryTour": {
+		"title": "Dassai Sake Brewery Tour",
+		"hour": "4 hours",
+		"year": "all year",
+		"Age": "Age 20+",
+		"minPack": "Min. 5pax",
+		"availability": "Availability 14"
+	},
+	"mapInfo": {
+		"subtitle": "Tour three top breweries Zaku, Gensaka, and Kuroushi, and feast on an array of local specialties. We’ll sample Matsusaka beef barbecue, creamy Matoya oysters, and a tuna dinner in Katsuura, where more tuna is landed than anywhere else in Japan. Since Wakayama is also at the vanguard of tuna aquaculture, we’ll sample bluefin tuna sashimi right where it is farmed. Since Wakayama is also at the vanguard of tuna aquaculture, we’ll sample tuna sashimi right where it is farmed. We’ ll travel deep into the mountains and meet a Binchotan maker.(Binchotan is a Japanese charcoal prized by many chefs around the world.) Here we will see his kiln, and have a BBQ lunch along a section of the famous Kumano Kodo."
+	},
+	"requestInfo": {
+		"subtitle": "We’ll also visit Shinto shrines in Ise, Kumano and Nachi, marvel at the dynamic rocky coastlines and serene mountain forests, and unwind for four nights at various onsen. Tour Destination: Mie / Wakayama Dates & Duration: Weekly Monday through Friday.Departing at 9 AM at JR Nagoya Station finishing at 17 PM at JR Kainan Station in Wakayama. Group size: Minimum 10 guests / Maximum 14 guests Tour Cost: 8,700 JPY.We are still waiting on cost confirmation from hotels and transport– but will be able to confirm by the end of June 2019. Meals Included: Breakfasts: 5 Lunches: 4 Dinners: 3 Dinners include selected sake from the breweries we visit and from other breweries in the region.",
+		"title": "REQUEST INFO",
+		"fname": "First Name",
+		"email": "Email address",
+		"message": "Message",
+		"send": "SEND"
+	},
+	"booking":{
+		"bookThisTour":"Book this tour",
+		"PricesAreVATIncluded":" Prices are VAT included",
+		"next":"Next",
+		"back":"Back",
+		"confirm":"Confirm"
+	},
+	"bookingHeader":{
+		"stpe1Title":" A few things related to your tours.",
+		"stpe2Title":" Now just a little bit about who you are.",
+		"stpe2Title":"Payment details and then you're done!"
+	},
+	"bookingStep1":{
+		"title":"Dassai Sake Brewery Tour",
+		"subtitle":"Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit.",
+		"totalPrice":"Total Price"
+
+	},
+	"bookingStep2":{
+		"subtitle":"Please note that you only need to enter one name for your booking even though you are traveling several together.",
+		"sign":"Sign up for SakeWiz Tours newsletter and get special offers and news about Japan.",
+		"accept":"I accept these terms and conditions."
+
+	},
+	"bookingConfirmation":{
+		"dassaiSakeBreweryTour":"Dassai Sake Brewery Tour",
+		"title":"Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit.",
+		"thankyou":"Thank you",
+		"subtitle":"You will shortly receive the order details to your email address. For any request, please contact us support@sakewiz.com or call 800 749 2043 Mon to Fri 9:00 PM till 17:00 PM",
+		"needaPickup":"Need a pick-up",
+		"totalPrice":"Total Price"
+	},
+	"loginFooter":{
+		"aboutUs":"About us",
+		"team":"Team",
+		"testimonials":"Testimonials",
+		"privacyPolicy":"Privacy Policy"
+  }
+
+
+}

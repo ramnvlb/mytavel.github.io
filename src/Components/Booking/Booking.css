@@ -1,0 +1,102 @@
+.booking_title{
+  display: unset !important;
+  align-items: flex-center;
+  justify-content: space-between;
+  border-bottom: 0px solid #dee2e6 !important;
+
+}
+.custome-padding{
+  padding: 10px 10px 40px 10px !important;
+}
+.booking-tour-title{
+  font-family: Lato;
+  font-size: 50px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  text-align: center;
+  color: #102746;
+}
+.booking-footer{
+  text-align: right;
+  padding: 25px 0px;
+}
+.next-back-btn{
+  float: left;
+  width: 70%;
+  padding-right: 10px;
+}
+.prive-vat{
+  float: left;
+  width: 30%;
+  text-align: left;
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #444444;
+  padding-left: 15px;
+  padding-top: 20px;
+}
+.next-back-btn-full-width{
+  width: 100%;
+}
+.next-btn{
+  border: solid 1px #64a86b !important;
+  background-color: #64a86b !important;
+  border: none;
+  padding: 10px 56px;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  text-align: center;
+}
+.back-btn{
+  border: solid 1px #64a86b !important;
+  background-color: #64a86b !important;
+  border: none;
+  padding: 10px 30px;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  text-align: center;
+  margin-right: 30px;
+}
+.next-btn:hover{
+  background-color: #ffffff !important;
+  color: #64a86b;
+}
+.back-btn:hover{
+  background-color: #ffffff !important;
+  color: #64a86b;
+}
+.hidden{
+  visibility: hidden;
+}
+.confirmation-title{
+  font-family: Lato;
+  font-size: 50px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  text-align: center;
+  color: black;
+}
+.display-none{
+  display: none;
+}

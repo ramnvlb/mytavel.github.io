@@ -1,0 +1,139 @@
+.profile{
+max-width: 92% !important;
+margin-top: 20px;
+height: 360px;
+}
+.profile-title{
+  font-family: Lato;
+  font-size: 48px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.88;
+  letter-spacing: normal;
+  color: #102746;
+  margin-top: 30px;
+  padding-top: 30px
+}
+.profile-subtitle{
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  color: #102746;
+  margin-top: 24px;
+  text-transform: uppercase;
+}
+.profile-edit{
+  width: 100%;
+}
+.profile-edit::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+.profile-first-name{
+  float: left;
+  width: 27%;
+}
+.profile-last-name{
+  float: left;
+  width: 27%;
+
+}
+.profile-email{
+  float: left;
+  width: 27%;
+
+}
+.profile-btn{
+  float: left;
+  width: 19%;
+  text-align: right;
+}
+.profile-label{
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #102746;
+  margin-top: 10px !important;
+  padding-top: 6px;
+}
+.profile-input{
+  width: 268.6px;
+  height: 40px;
+  border-radius: 2px;
+  border: solid 1px #cccccc;
+  background-color: #ffffff;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  color: #444444;
+}
+.profile-edit-btn{
+  width: 118px;
+  height: 40px;
+  border: solid 1px #64a86b;
+  background-color: #ffffff;
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.28;
+  letter-spacing: normal;
+  text-align: center;
+  color: #64a86b;
+  text-transform: uppercase;
+}
+.profile-edit-btn:hover{
+  color: #ffffff;
+  background-color: #64a86b;
+}
+.edit-btn-m{
+  margin-top: 39px;
+}
+.hr-border-bootom{
+  border: solid 1px #d9d9d9;
+}
+@media(max-width:1400px) {
+
+}
+@media(max-width:1300px){
+
+}
+@media(max-width:1200px){
+
+}
+@media(max-width:1100px){
+
+}
+@media(max-width:1023px){
+
+}
+@media(max-width:767px){
+
+}
+@media(max-width:719px){
+
+}
+@media(max-width:479px){
+
+}
+@media(max-width:419px){
+
+}
+@media(max-width:359px){
+
+}

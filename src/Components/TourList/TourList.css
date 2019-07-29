@@ -1,0 +1,163 @@
+.tour-list-main-container{
+  max-width: 100% !important;
+}
+
+.tour-list-container{
+  max-width: 92% !important;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+.tour-title{
+  font-family: Lato;
+  font-size: 48px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.88;
+  letter-spacing: normal;
+  color: #102746;
+}
+.select-list-container{
+  width: 100%;
+}
+.select-list-container::after{
+  content:"";
+  display: table;
+  clear: both;
+}
+.list-perfecture{
+  width: 32%;
+  float: left;
+}
+.list-brewerie{
+  width: 32%;
+  float: left;
+}
+.list-view{
+  width: 16%;
+  float: left;
+}
+.map-view{
+  width: 16%;
+  float: left;
+}
+.select-list-view{
+  width: 181px;
+  height: 40px;
+  border-radius: 2px;
+  border: solid 1px #cccccc;
+  background-color: #ffffff;
+}
+.list-btn{
+  font-family: Lato;
+ font-size: 14px;
+ font-weight: bold;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: 1.5;
+ letter-spacing: 0.5px;
+ text-align: right;
+ color: #ff7100;
+ padding-top: 7px;
+ display: inline-block;
+}
+.map-btn{
+  opacity: 0.5;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  color: #102746;
+  padding-top: 6px;
+  display: inline-block;
+}
+.fa-th-large{
+margin-left: 10px;
+font-size: 15px;
+}
+.fa-map{
+margin-left: 10px;
+font-size: 20px;
+}
+.list-view-items{
+  margin-top: 0px;
+  width: 97%;
+}
+.map-view-show{
+  max-width: 100%;
+}
+@media(max-width:1300px){
+  .list-perfecture {
+    width: 33%;
+}
+.tour-title{
+  font-size: 44px
+}
+.map-view {
+    width: 18%;
+}
+.list-view {
+    width: 16%;
+ }
+}
+@media(max-width:1200px){
+  .tour-title{
+    font-size: 40px
+  }
+  .select-list-view{
+    width: 146px;
+  }
+  .list-brewerie {
+    width: 28%;
+}
+.map-btn{
+  font-size: 13px;
+}
+.list-btn{
+  font-size: 13px;
+}
+}
+@media (max-width:1100px){
+.tour-title {
+    font-size: 37px;
+ }
+ .list-btn {
+    font-size: 10px;
+}
+.map-btn{
+   font-size: 12px;
+}
+.list-view {
+    width: 15%;
+}
+.map-view {
+    width: 19%;
+}
+.list-perfecture {
+    width: 30%;
+}
+.select-list-view {
+    width: 136px;
+      font-size: 14px;
+}
+}
+@media (max-width:1023px){
+  .custome-tour-list{
+    max-width: 100%  !important;
+    flex: unset !important
+  }
+  .list-perfecture {
+    width: 32%;
+}
+.select-list-view {
+    width: 167px;
+    font-size: 19px;
+}
+.select-list-container{
+  margin-top: 10px !important;
+}
+
+}
